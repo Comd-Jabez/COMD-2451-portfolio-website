@@ -1,0 +1,26 @@
+.about-container {
+    max-width: 600px;
+    margin-right: auto;
+  }
+  
+  .about-content {
+    text-align: left;
+  }
+
+  .project-img {
+    width: 100%; /* Adjust width as needed */
+    transition: transform 0.3s ease;
+  }
+  
+  .project-img:hover {
+    transform: scale(1.05); /* Adjust scale as needed */
+  }
+  body {
+    background-color: #e3235b;
+  }
+  body {
+    color: white
+  }
+  body {
+    font-family: 'Oswald', sans-serif;
+  }
